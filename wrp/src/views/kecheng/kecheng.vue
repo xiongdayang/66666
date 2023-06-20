@@ -1,6 +1,7 @@
 <template>
     <div>
         课程
+        2
     </div>
 </template>
 

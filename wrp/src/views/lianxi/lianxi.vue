@@ -1,6 +1,7 @@
 <template>
     <div>
         练习
+        3
     </div>
 </template>
 
